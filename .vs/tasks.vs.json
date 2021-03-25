@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-hangman-visual-cplusplus",
+      "appliesTo": "hangman/hangman-visual-cplusplus.cpp",
+      "type": "launch"
+    }
+  ]
+}

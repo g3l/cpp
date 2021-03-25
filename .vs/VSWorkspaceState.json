@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\basics"
+    "\\hangman",
+    "\\tictactoe"
   ],
-  "SelectedNode": "\\calc.cpp",
+  "SelectedNode": "\\hangman\\hangman-visual-cplusplus.cpp",
   "PreviewInSolutionExplorer": false
 }

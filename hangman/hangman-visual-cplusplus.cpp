@@ -4,7 +4,7 @@
 #include <string>
 using namespace std;
 
-const int MAX_TRIES = 5;
+const int MAX_TRIES = 5; //changeable  5 seems a decent number of guesses
 
 int letterFill(char, string, string&);
 
